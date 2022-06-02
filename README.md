@@ -52,3 +52,33 @@ Provide link and number via command line
 https://www.imdb.com/india/top-rated-indian-movies
 5
 ```
+
+### :This returns the following response.
+```bash
+[
+  {
+    "title": "Pather Panchali",
+    "movie_release_year": "1955",
+    "imdb_rating": "8.6",
+    "summary": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+    "duration": "2h 5min",
+    "genre": "Drama"
+  },
+  {
+    "title": "Hanky Panky",
+    "movie_release_year": "1979",
+    "imdb_rating": "8.6",
+    "summary": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+    "duration": "2h 24min",
+    "genre": "Comedy, Romance"
+  },
+  {
+    "title": "Raatchasan",
+    "movie_release_year": "2018",
+    "imdb_rating": "8.7",
+    "summary": "A sub-inspector sets out in pursuit of a mysterious serial killer who targets teen school girls and murders them brutally.",
+    "duration": "2h 50min",
+    "genre": "Action, Crime, Thriller"
+  }
+]
+```
