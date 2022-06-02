@@ -1,5 +1,5 @@
 
-# IMDb (Backend assignment)
+# IMDb Chart Fetcher
 
 This project is based on a assignment for Fullstack intern role at Thinklabs
 
