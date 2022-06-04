@@ -1,7 +1,6 @@
 
 # IMDb Chart Fetcher
 
-This project is based on a assignment for Fullstack intern role at Thinklabs
 
 <img src="https://m.media-amazon.com/images/G/01/IMDb/brand/IMDb_JobSiteBanner_1920x425._SL1280_.jpg"/>  
 
