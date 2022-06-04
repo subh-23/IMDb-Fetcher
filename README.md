@@ -6,7 +6,7 @@
 
 ## :memo: IMDB Chart Fetcher
 
-Gets you the information of top movies from IMDB.
+Gets you the information of top movies from IMDB in real time.
 
 ### :pushpin: Tested URLs
 
